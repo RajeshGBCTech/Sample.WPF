@@ -11,5 +11,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
+        <Ellipse Grid.Row="0" Grid.Column="0" Margin="10" Width="150" Fill="#468afe" ></Ellipse>
+       
     </Grid>
 </Window>
